@@ -1,0 +1,4 @@
+file3.txt for test
+have 4 lines
+
+The 4th line.
